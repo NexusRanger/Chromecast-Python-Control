@@ -1,4 +1,4 @@
-# Ambient Chromecast Jungle - 5 channel audio stream using local test files (1 min)
+# Stop Server - It's hard to stop so this just sends a short stream and closes
 import http.server
 import socketserver
 import threading
