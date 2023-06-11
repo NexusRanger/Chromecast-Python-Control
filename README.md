@@ -2,10 +2,11 @@
  Control many Chromecast functions using Python
  Thanks to pychromecast Python library for making this all work
  Demo is configured to play Radio Paradise from Main, Mellow, Rock & World streams
- https://radioparadise.com/home
+ https://radioparadise.com/home There are no adverts on these streams
  But you can use many audio (or video) streams
- This is the install set up for Windows 10:
-
+ No setup config neccessary, simply create a Chromecast group named 'All Speakers'
+ 
+ This is the set up for Windows 10 for Python if not already installed:
  Install Python from https://www.python.org/downloads/
  (Microsoft Store version makes for a long path, Python Org puts it in Program Files)
  Click checkbox to include Python in 'path' when installing
