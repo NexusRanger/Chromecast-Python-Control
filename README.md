@@ -14,7 +14,7 @@
   - Install 'pip' from cmd window:   python -m pip install pip
   - Install 'pychromecast' from cmd window:   python -m pip install pychromecast
 
- Chromecase main speaker group is assumed to be named 'All Speakers'
+ Chromecase main speaker group is assumed to be named 'All Speakers'.
  Chromecast names are case sensitive
  Commands work fairly slowly, so leave plenty of time between, e.g. vol changes
 
