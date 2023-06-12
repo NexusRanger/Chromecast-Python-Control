@@ -15,11 +15,11 @@
   - Install 'pychromecast' from cmd window:   python -m pip install pychromecast
 
  Chromecase main speaker group is assumed to be named 'All Speakers'.
- Chromecast names are case sensitive
- Commands work fairly slowly, so leave plenty of time between, e.g. vol changes
+ Chromecast names are case sensitive.
+ Commands work fairly slowly, so leave plenty of time between, e.g. vol changes.
 
- Add local mp3 files (if req) in: C:\Data\Python\local
- You can edit that path in BroadcastLocal & Jungle .py files
+ Add local mp3 files (if req) in: C:\Data\Python\local.
+ You can edit that path in BroadcastLocal & Jungle .py files.
  (local folder only needed for local broadcast files)
 
  Lots of ways to execute e.g.:
